@@ -25,7 +25,8 @@ As the flow rate \( Q \) increases, the behavior of the faucet's drips undergoes
 
 Below is a graphical representation of how the transition from regular to chaotic behavior occurs as the flow rate increases:
 
-![Faucet Dripping Chaos](https://link_to_your_image_here.com)
+![random-forest-algorithm2](https://github.com/user-attachments/assets/8241c6c9-efa1-40fa-be41-f68dcbaa7015)
+
 
 ## Conclusion
 
